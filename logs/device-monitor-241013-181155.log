@@ -1,0 +1,261 @@
+connected
+[SinricPro]: Connected
+[Device: 670b10bfdeddece34bacadd6]: Powerstate changed to off
+Passou 10 segundos
+Bomba Desligada
+[ 13969][E][ssl_client.cpp:37] _handle_error(): [data_to_read():361]: (-76) UNKNOWN ERROR CODE (004C)
+[SinricPro]: Disconnected
+[ 14490][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 14499][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 15016][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 15025][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 15542][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 15551][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 16068][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 16077][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 16594][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 16603][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 17120][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 17129][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 17646][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 17655][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 18172][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 18181][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 18698][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 18707][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 19224][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 19233][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 19750][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 19759][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 20276][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 20285][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 20802][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 20811][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 21328][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 21337][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 21854][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 21863][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 22380][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 22389][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 22906][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 22915][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 23432][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 23441][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 23958][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 23967][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 24484][E][ssl_client.cpp:99] start_ssl_client(): connect on fd 49, errno: 118, "Host is unreachable"
+[ 24493][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+[ 25009][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 25526][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 26043][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 26560][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 27077][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 27594][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 28111][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 28628][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 29145][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 29662][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 30179][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 30696][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 31213][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 31730][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 32247][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 32764][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 33281][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 33798][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 34315][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 34832][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 35349][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 35866][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 36383][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 36900][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 37417][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 37934][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 38451][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 38968][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 39485][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 40002][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 40519][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 41036][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 41553][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 42070][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 42587][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 43104][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 43621][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 44138][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 44655][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 45172][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 45689][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 46206][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 46723][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 47240][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 47757][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 48274][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 48791][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 49308][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 49825][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 50342][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 50859][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 51376][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 51893][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 52410][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 52927][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 53444][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 53961][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 54478][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 54995][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 55512][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 56029][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 56546][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 57063][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 57580][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 58097][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 58614][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 59131][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 59648][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+Passou 1 segundos
+Bomba Ligada
+[ 60166][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 60683][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 61200][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 61717][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 62234][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 62751][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 63268][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 63785][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 64302][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 64819][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 65336][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 65853][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 66370][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 66887][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 67404][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 67921][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 68438][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 68955][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 69472][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 69989][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+Passou 10 segundos
+Bomba Desligada
+[ 70507][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 71024][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 71541][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 72058][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 72575][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 73092][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 73609][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 74126][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 74643][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 75160][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 75677][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 76194][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 76711][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 77228][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 77745][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 78262][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 78779][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 79296][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 79813][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 80330][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 80847][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 81364][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 81881][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 82398][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 82915][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 83432][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 83949][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 84466][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 84983][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 85500][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 86017][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 86534][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 87051][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 87568][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 88085][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 88602][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 89119][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 89636][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 90153][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 90670][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 91187][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 91704][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 92221][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 92738][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 93255][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 93772][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 94289][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 94806][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 95323][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 95840][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 96357][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 96874][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 97391][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 97908][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 98425][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 98942][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 99459][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[ 99976][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[100493][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[101010][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[101527][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[102044][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[102561][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[103078][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[103595][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[104112][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[104629][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[105146][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[105663][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[106180][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[106697][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[107214][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[107731][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[108248][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[108765][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[109282][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[109799][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[110316][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[110833][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[111350][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[111867][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[112384][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[112901][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[113418][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[113935][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[114452][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[114969][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[115486][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[116003][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[116520][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[117037][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[117554][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[118071][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[118588][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[119105][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[119622][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+Passou 1 segundos
+Bomba Ligada
+[120139][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[120656][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[121173][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[121690][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[122207][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[122724][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[123241][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[123758][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[124275][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[124792][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[125309][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[125826][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[126343][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[126860][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[127377][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[127894][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[128411][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[128928][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[129445][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[129962][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+Passou 10 segundos
+Bomba Desligada
+[130479][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
+[130996][E][WiFiGeneric.cpp:1583] hostByName(): DNS Failed for ws.sinric.pro
